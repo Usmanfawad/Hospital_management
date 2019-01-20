@@ -1,0 +1,54 @@
+Patient_ID: 0
+F.Name: mohsin
+M.Name: 
+L.Name: khan
+Age: 20
+
+Patient_ID: 1
+F.Name: Mustafa
+M.Name: 
+L.Name: shakeel
+Age: 22
+
+Patient_ID: 2
+F.Name: Bassam
+M.Name: 
+L.Name: Saanp
+Age: 22
+
+Patient_ID: 3
+F.Name: Zubaida
+M.Name: 
+L.Name: Aapa
+Age: 60
+
+Patient_ID: 4
+F.Name: Usman
+M.Name: Fawad
+L.Name: Choudhary
+Age: 20
+
+Patient_ID: 5
+F.Name: safi
+M.Name: 
+L.Name: khan
+Age: 19
+
+Patient_ID: 6
+F.Name: safi
+M.Name: ullah
+L.Name: khan
+Age: 20
+
+Patient_ID: 7
+F.Name: hafsa
+M.Name: 
+L.Name: fawad
+Age: 19
+
+Patient_ID: 8
+F.Name: fatima
+M.Name: 
+L.Name: fawad
+Age: 199
+
