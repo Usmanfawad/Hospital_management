@@ -1,0 +1,9 @@
+Doctor_ID: 0
+F.Name: abdullah
+L.Name: khan
+CNIC#: 42201-5428835-1
+
+DR ID: 1
+F.Name: John
+L.Name: Cena
+CNIC#: 42285-184502-1
