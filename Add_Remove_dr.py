@@ -23,8 +23,8 @@ def add_doc_txt():
             numb_list = txt[-5].split(' ')
             counter = numb_list[1][0:-1]
 
-            print("DR ID: " + str(int(counter)+1))
-            doc_info= 'DR ID: ' + str(int(counter)+1) + '\nF.Name: ' + doc_fname_info + '\nL.Name: ' + doc_lname_info+'\nCNIC#: '+cnic_info +'\n\n'
+            print("Doctor_ID: " + str(int(counter)+1))
+            doc_info= 'Doctor_ID: ' + str(int(counter)+1) + '\nF.Name: ' + doc_fname_info + '\nL.Name: ' + doc_lname_info+'\nCNIC#: '+cnic_info +'\n\n'
             txt.append(doc_info)
 
         file_w = open("doctor.txt", "w")
